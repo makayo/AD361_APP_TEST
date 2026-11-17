@@ -1,4 +1,5 @@
-import { useState, FormEvent } from "react";
+import { useState } from "react";
+import type { FormEvent } from "react";
 import type { Todo } from "@/types";
 import { addTodo } from "@/utils/todoUtils";
 import TodoItem from "./TodoItem";
