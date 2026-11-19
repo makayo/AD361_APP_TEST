@@ -12,8 +12,3 @@ Coursework organized by week.
 | [Week 6](WK6/) | Testing findings |
 | [Week 7](WK7/) | Test planning |
 | [Week 8](WK8/) | Defect management and test reporting |
-
-## Week 8 Reports
-
-- [LP08 — Defect Report](WK8/StarterLP08/DEFECT_REPORT_LP08.md)
-- [Lab04 — Counter Application Test Report](WK8/StarterLab04/TEST_REPORT.md)
