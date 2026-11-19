@@ -1,7 +1,5 @@
 # AD361 — Application Testing
 
-Coursework organized by week.
-
 | Week | Coursework |
 | --- | --- |
 | [Week 1](WK1/) | Introduction to testing |
