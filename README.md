@@ -10,3 +10,4 @@
 | [Week 6](WK6/) | Testing findings |
 | [Week 7](WK7/) | Test planning |
 | [Week 8](WK8/) | Defect management and test reporting |
+| [Week 9](WK9/) | LLM-assisted test design |
